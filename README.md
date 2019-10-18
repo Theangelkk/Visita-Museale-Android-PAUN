@@ -13,7 +13,7 @@ From the software point of view, the server in question uses the runtime node.js
 * C#
 
 <h4>Link to download the presentation</h4>
-<a href="..."> Presentazione </a>
+<a href="https://studentiuniparthenope-my.sharepoint.com/:p:/g/personal/gennaro_iannuzzo001_studenti_uniparthenope_it/EQ51e2F1utpJkYSpouj3LG8B-p1VmOr3XIXtda9Ho1C7Dg?e=yQKZAE"> Presentazione </a>
 
 <h4>Link to download the asset package</h4>
 <a href="..."> Asset Package </a>
