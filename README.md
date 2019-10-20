@@ -8,6 +8,10 @@ The client/server architecture consists of clients that are represented by users
 
 From the software point of view, the server in question uses the runtime node.js, to execute JavaScript code side server and manage the multiplayer. Clients and servers exchange JSON files for runtime updates about the location of different users and other types of information.
 
+For more information, you can send an email to this addresses:
+angelo.casolaro001@studenti.uniparthenope.it
+gennaro.iannuzzo001@studenti.uniparthenope.it
+
 # Prerequisites
 * Unity
 * C#
